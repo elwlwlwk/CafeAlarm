@@ -1,0 +1,2 @@
+./out 'http://cafe.naver.com/ArticleList.nhn?search.clubid=10050146&search.menuid=417&search.boardtype=L' | grep DEBUG
+
